@@ -12,5 +12,5 @@ Useful of instagram.
 1️⃣ If you want to change the background gradient just make your own gradient [here](https://mycolor.space/) and paste it in ```style.css ```.
 <br>
 
-2️⃣
-
+2️⃣ For Animated backgrounds I have kept few animations( ```vanta.js``` ) in the ```js``` folder.<br>
+Keep on one thing in mind that there are files only there.You have to add the code yourself and you can find it [here](https://www.vantajs.com/).
