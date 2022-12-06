@@ -4,6 +4,7 @@ A simple webpage which includes links to your various social media platforms. <b
 Useful of instagram.
 ## 🖼️ Image
 <img src="1.jpg">
+<img src="2.jpg">
 
 ## 🛠️ Extra Customizations
 
