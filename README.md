@@ -1,7 +1,7 @@
 
 ## 📝About
 A simple webpage which includes links to your various social media platforms. <br>
-Useful of instagram.
+Useful of instagram.<br>
 [CLICK HERE TO SEE DEMO](https://demo-social-media-link-page.vercel.app/)
 ## 🖼️ Image
 <img src="1.jpg">
